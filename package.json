@@ -1,0 +1,11 @@
+{
+  "name": "easy-solitaire",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Big, simple Solitaire for Android",
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/cli": "^6.1.2",
+    "@capacitor/core": "^6.1.2"
+  }
+}

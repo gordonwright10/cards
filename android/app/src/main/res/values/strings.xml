@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Solitaire</string>
+    <string name="title_activity_main">Solitaire</string>
+    <string name="package_name">com.family.easysolitaire</string>
+    <string name="custom_url_scheme">com.family.easysolitaire</string>
+</resources>
